@@ -1,13 +1,23 @@
-a = 2
-b = 4.55
-c = "hello"
-print(a)
-print(b)
-print(c)
-print (a, end = "___")
-print (a,b,c)
-print (a,b,c, sep = " : ")
-s1 = (f"A:{a},B:{b:.1f},C:{c}")
-print (s1)
-print ("A:%10d,B:%.2f,C:%s" % (a,b,c))
-print ("A:{0},B:{2},C:{1}" .format(a,b,c))
+print (5>6)
+tomato = 1
+potato = 0
+print (tomato == True)
+print (potato == True)
+print (bool (1))
+print (bool (2))
+print (int(True))
+                                # == равно
+                                # != не равно
+                                # > больше
+                                # < меньше
+                                # >= больше или равно
+                                # <= меньше или равно
+                                # and  И
+                                # or   ИЛИ
+                                # not  НE
+a = 38
+print (a > 0 and a < 50)
+print (0 < a < 50)
+b = 10
+print (a>0 and b == 10)
+print (a>0<b)
