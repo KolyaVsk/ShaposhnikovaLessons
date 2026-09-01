@@ -9,5 +9,6 @@ print (a1,a2,a3,a4)
 apples = 100
 eat_aday = 3
 day = 7
+
 apples = apples - eat_aday*day
 print(apples)
