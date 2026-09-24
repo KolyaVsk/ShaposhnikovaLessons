@@ -21,4 +21,4 @@ elif figure == '2':
     result = triangle()
     print("Площадь: $2f" % result)
 else:
-    print("Hет такой фигуры")
+    print("Hет такой фигуры")1

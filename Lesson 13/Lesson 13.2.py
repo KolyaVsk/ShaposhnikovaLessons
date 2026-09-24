@@ -15,4 +15,4 @@ print ('Площадь основания %.2f' % fCyl)
 
 a = cylinder()
 print(a)
-print(type(a))
+print(type(a))1
