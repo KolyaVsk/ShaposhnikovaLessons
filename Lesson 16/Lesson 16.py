@@ -19,10 +19,10 @@ c = random() * 10
 d = random() * (10 - 6)
 f = random() * (10 - 6) + 6
 g = random() * (2 - -2) - 2
-print("%.16f" % c)
-print("%.16f" % d)
-print("%.16f" % f)
-print("%.16f" % g)
+print("c = %.16f" % c)
+print("d = %.16f" % d)
+print("f = %.16f" % f)
+print("g = %.16f" % g)
 
 o = round(random() * (10 - 6) + 6) # можем получить  10
 
