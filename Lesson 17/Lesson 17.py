@@ -11,3 +11,17 @@ print (c ==d)
 s = ['a', 'b', 'c', 'd']
 s[0] = 555
 print (s)
+
+####dir(list)
+####s.append(999)
+
+
+
+from random import randint
+
+c = []
+i = 0
+while i < 5:
+    c. append(randint(0, 100))
+    i += 1
+print (c)
